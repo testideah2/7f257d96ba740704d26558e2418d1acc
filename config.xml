@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "KazanCheks.app"
+    id          = "ru.kazan-cheks.app"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
 <name>ТЕСТ. Чеки Казань</name>
 
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#1166EF" />
+<preference name="SplashScreenSpinnerColor" value="#007BFF" />
 
 
 <platform name="android">
